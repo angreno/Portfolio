@@ -19,15 +19,4 @@ This portfolio is built using the following technologies:
 - Next.js
 - Git
 
-## Contact
-
-Feel free to reach out to me for any inquiries or collaborations:
-
-- **Email**: [ud4yg@yandex.com](mailto:ud4yg@yandex.com)
-- **LinkedIn**: [Uday G](https://www.linkedin.com/in/uday-g-601ba9266/)
-- **GitHub**: [oxBinaryBrain](https://github.com/oxBinaryBrain)
-
-
----
-
 Thank you for visiting my portfolio! I hope you find it informative and inspiring.
